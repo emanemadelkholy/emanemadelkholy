@@ -3,7 +3,7 @@
 💻 Software Engineering Student | Backend Developer  
 
 💬 Ask me about **Laravel, PHP, MySQL, and APIs**  
-📫 Reach me at: emanemad@example.com  
+📫 Reach me at: emanemadelkoly@gmail.com  
 
 ---
 
