@@ -3,7 +3,6 @@
 💻 Software Engineering Student | Backend Developer  
 🎓 Faculty of Engineering, Mansoura University - Computer and Control Systems Department  
 
-💬 Ask me about **Laravel, PHP, MySQL, and APIs**  
 📫 Reach me at: **emanemadelkoly@gmail.com**  
 
 ---
@@ -38,13 +37,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanemadelkholy&show_icons=true&theme=radical)
-
----
-
-## 📌 Featured Projects:
-- [🩸 Blood Bank Project](https://github.com/emanemadelkholy/blood-bank)  
-- [🔒 Laravel Authentication System](https://github.com/emanemadelkholy/laravel-auth)  
+![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanemadelkholy&show_icons=true&theme=radical) 
 
 ---
 
