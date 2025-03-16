@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there! I'm Eman Emad El Kholy  
 
-<!--
-**emanemadelkholy/emanemadelkholy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student | Backend Developer  
 
-Here are some ideas to get you started:
+💬 Ask me about **Laravel, PHP, MySQL, and APIs**  
+📫 Reach me at: emanemad@example.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Socials:
+[LinkedIn](https://www.linkedin.com/in/eman-emad/) | [Instagram](https://www.instagram.com/emanemad.elkoly/) | [Facebook](https://www.facebook.com/emanemad.elkoly)
+
+---
+
+### 💻 Tech Stack:
+`PHP` `Laravel` `MySQL` `JavaScript` `Python` `HTML5` `CSS3` `Docker` `Postman`
+
+---
+
+### 📊 GitHub Stats:
+![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanemadelkholy&show_icons=true&theme=radical)
+
+---
+
+### 📌 Pinned Projects:
+- [Blood Bank Project](https://github.com/emanemadelkholy/blood-bank)  
+- [Laravel Authentication System](https://github.com/emanemadelkholy/laravel-auth)  
